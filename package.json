@@ -1,7 +1,7 @@
 {
   "name": "starxd",
   "version": "2.0.0",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot by Dev Alexander",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot", "star-xd","starxd"
   ],
-  "author": "Malvin King",
+  "author": "Dev Alexander",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
